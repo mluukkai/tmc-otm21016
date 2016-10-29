@@ -3,7 +3,7 @@ import org.junit.Test;
 import static org.junit.Assert.*;
 import fi.helsinki.cs.tmc.edutestutils.Points;
 
-@Points("1-5")
+@Points("2-5")
 public class LukutilastoTest {
 
     @Test
