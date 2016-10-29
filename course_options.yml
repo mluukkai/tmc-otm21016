@@ -1,0 +1,38 @@
+spreadsheet_key: "0ArQghZeM1C8wdEd4RjYyN0lkalh3U21iVmo4NVY4c0E-deletethisitsbroken"
+paste_visibility: 'open'
+formal_name: "Ohjelmoinnin MOOC - 2016"
+courses:
+  k2016-ohpe:
+    hidden_if_registered_after: 2016-05-10
+  k2016-ohja:
+    hidden_if_registered_after: 2016-05-10
+  hy-k2016-ohpe:
+    hidden_if_registered_after: 2016-05-10
+  hy-k2016-ohja:
+    hidden_if_registered_after: 2016-05-10
+  2016-ohjelmointi:
+    hidden: false
+    # Hidden till viikko02 is released. It now breaks the unlock condition checker as viikko02 exercise group does not exist... -Jarmo 19/1/2016
+    #certificate_downloadable: true
+    #certificate_unlock_spec:
+    #  - 1% of viikko13
+    #  - 75% of viikko12
+    #  - 75% of viikko11
+    #  - 75% of viikko10
+    #  - 75% of viikko09
+    #  - 75% of viikko08
+    #  - 75% of viikko07
+    #  - 75% of viikko06
+    #  - 75% of viikko05
+    #  - 75% of viikko04
+    #  - 75% of viikko03
+    #  - 75% of viikko02
+    #  - 75% of viikko01
+    hidden_if_registered_after: 2016-05-10
+  2016-nodl-ohjelmointi:
+    hidden: false
+      # Hidden till viikko02 is released. It now breaks the unlock condition checker as viikko02 exercise group does not exist... -Jarmo 19/1/2016
+    #certificate_downloadable: true
+    #certificate_unlock_spec:
+      #      - 50% of viikko02
+
