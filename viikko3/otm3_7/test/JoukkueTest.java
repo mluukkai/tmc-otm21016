@@ -16,6 +16,5 @@ public class JoukkueTest {
     @Test
     public void alussaKokoNolla() {
         assertEquals(0, joukkue.koko());
-        assertTrue(false);
     }
 }
