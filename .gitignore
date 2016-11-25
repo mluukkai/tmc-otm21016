@@ -2,3 +2,5 @@ build
 dist
 private
 !/private
+/viikko6/otm6-4.Palkanlaskenta/nbproject/
+/viikko6/otm6-4.Palkanlaskenta/target/
